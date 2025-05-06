@@ -21,7 +21,7 @@ const Hero = () => {
               placeholder="Enter your email" 
               className="px-4 py-2 rounded-l text-black focus:outline-none"
             />
-            <Button className="rounded-r">Subscribe</Button>
+            <Button className="rounded-r border-2 border-green-800 shadow-lg">Subscribe</Button>
           </div>
         </div>
       </div>
